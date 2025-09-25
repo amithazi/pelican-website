@@ -267,12 +267,12 @@ header .header_box {
     padding-top: 4.5em;
 }
 header h1 {
-    font-size: 1.5em;
+    font-size: 2em;
     line-height: 1em;
     margin: 0;
 }
 header h2 {
-    font-size: 1em;
+    font-size: 1.5em;
     margin: .3em 0;
     color: #DDD;
 }

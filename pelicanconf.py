@@ -35,3 +35,4 @@ PAGE_ORDER_BY = 'order'
 
 # theme-related settings
 THEME = 'theme-blue-penguin'
+DISPLAY_HOME = False
