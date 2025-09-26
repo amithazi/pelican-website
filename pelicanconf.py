@@ -22,8 +22,14 @@ LINKS = ()
 #         ('Jinja2', 'https://palletsprojects.com/p/jinja/'),
 #         ('You can modify those links in your config file', '#'),)
 
+#MENUITEMS = (('Pelican', 'https://getpelican.com/'),)
+
 # Social widget
-SOCIAL = ()
+SOCIAL = (# ('email', 'A.Hazi@leeds.ac.uk'),
+          ('arxiv', 'http://arxiv.org/a/hazi_a_1'), 
+          ('orcid', 'https://orcid.org/0000-0001-7264-2211'),
+          ('google-scholar', 'https://scholar.google.com/citations?user=DeEDVdkAAAAJ&hl=en'),
+          ('github', 'https://github.com/amithazi'),)
 #SOCIAL = (('You can add links in your config file', '#'),
 #          ('Another social link', '#'),)
 
@@ -34,5 +40,8 @@ PAGE_ORDER_BY = 'order'
 #RELATIVE_URLS = True
 
 # theme-related settings
-THEME = 'theme-blue-penguin'
-DISPLAY_HOME = False
+THEME = 'theme-pelican-hyde'
+#DISPLAY_HOME = False
+FONT_ACADEMICONS = True
+
+PROFILE_IMAGE = 'square-headshot.jpg'
