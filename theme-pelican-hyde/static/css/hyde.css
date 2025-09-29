@@ -102,7 +102,7 @@ html {
   list-style: none;
   padding-left: 0;
 }
-.sidebar-social {
+.sidebar-social-nontracking {
   display: flex;
   justify-content: center;
   align-items: center;

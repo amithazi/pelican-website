@@ -28,7 +28,7 @@
 			{% endif %}
 			</ul>
 		{% endif %}
-		<nav class="sidebar-social">
+		<nav class="sidebar-social-nontracking"> <!-- unobtrusive, non-tracking professional platforms only -->
 			{% for name, link in SOCIAL %}
 				{% if name == 'email' %}
 					<a class="sidebar-social-item" href="mailto:{{ link }}">
