@@ -40,8 +40,8 @@ ol.publist li {
 </style>
 
 <ol class="publist" reversed>
-<li>C. Bowman, M. De Visscher, A. Dell'Arciprete, A. Hazi, R. Muth, and C. Stroppel. Faithful covers of Khovanov arc algebras. <em>Math. Z</em> (to appear). <a href="https://arxiv.org/abs/2411.15788"><code>arXiv:2411.15788</code></a>.</li>
-<li>C. Bowman, M. De Visscher, N. Farrell, A. Hazi, and E. Norton. Oriented Temperley-Lieb algebras and combinatorial Kazhdan-Lusztig theory. <em>Canad. J. Math</em> (to appear). <a href="https://arxiv.org/abs/2212.09402"><code>arXiv:2212.09402</code></a>.</li>
+<li>C. Bowman, M. De Visscher, A. Dell'Arciprete, A. Hazi, R. Muth, and C. Stroppel. Faithful covers of Khovanov arc algebras. <em>Math. Z.</em>. (3) <strong>312</strong> (2026), article number 93.</li>
+<li>C. Bowman, M. De Visscher, N. Farrell, A. Hazi, and E. Norton. Oriented Temperley-Lieb algebras and combinatorial Kazhdan-Lusztig theory. <em>Canad. J. Math.</em> (2) <strong>78</strong> (2026), 651-693.</li>
 <li>C. Bowman, M. De Visscher, A. Hazi, and E. Norton. The anti-spherical Hecke categories for Hermitian symmetric pairs. <em>Adv. Math.</em> <strong>480</strong> (2025), 110501.</li>
 <li>A. Hazi. Matrix recursion for positive characteristic diagrammatic Soergel bimodules for affine Weyl groups. <em>Represent. Theory</em> <strong>29</strong> (2025), 443-526.</li>
 <li>C. Bowman, M. De Visscher, A. Hazi, and C. Stroppel. Dyck combinatorics in p-Kazhdan-Lusztig theory. <em>Sém. Lothar. Combin.</em> <strong>91B</strong> (2024), Art. 17, 12.</li>
