@@ -4,6 +4,8 @@ Author: Amit Hazi
 Slug: contact
 Order: 3
 
+#### [[pɹəˈnaʊns]]({filename}pronounce.md)
+
 ### Email
 <A.Hazi@leeds.ac.uk>
 
