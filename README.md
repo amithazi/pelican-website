@@ -1,7 +1,7 @@
 Source code to generate my website using Pelican. 
 Includes all files needed to get Pelican to rebuild the site with the command
 ````
-make content
+pelican content
 ````
 If you want to preview an edit to the website, run the command
 ````
