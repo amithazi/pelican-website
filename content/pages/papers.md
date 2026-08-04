@@ -6,6 +6,7 @@ Order: 2
 
 ## [Preprints](http://arxiv.org/a/hazi_a_1)
 
+- A. Hazi. Some remarks on realizations defining diagrammatic Hecke categories. [`arXiv:2608.02187`](https://arxiv.org/abs/2608.02187).
 - C. Bowman, M. De Visscher, A. Hazi, and C. Stroppel. Quiver presentations and isomorphisms of Hecke categories and Khovanov arc algebras. [`arXiv:2309.13695`](https://arxiv.org/abs/2309.13695).
 
 
@@ -40,7 +41,7 @@ ol.publist li {
 
 <ol class="publist" reversed>
 <li>C. Bowman, M. De Visscher, A. Dell'Arciprete, A. Hazi, R. Muth, and C. Stroppel. Quiver presentations and Schur-Weyl duality for Khovanov arc algebras. <em>Ann. Represent. Theory</em> (to appear). <a href="https://arxiv.org/abs/2411.15520"><code>arXiv:2411.15520</code></a>.</li>
-<li>C. Bowman, M. De Visscher, A. Dell'Arciprete, A. Hazi, R. Muth, and C. Stroppel. Faithful covers of Khovanov arc algebras. <em>Math. Z.</em>. (3) <strong>312</strong> (2026), article number 93.</li>
+<li>C. Bowman, M. De Visscher, A. Dell'Arciprete, A. Hazi, R. Muth, and C. Stroppel. Faithful covers of Khovanov arc algebras. <em>Math. Z.</em> (3) <strong>312</strong> (2026), article number 93.</li>
 <li>C. Bowman, M. De Visscher, N. Farrell, A. Hazi, and E. Norton. Oriented Temperley-Lieb algebras and combinatorial Kazhdan-Lusztig theory. <em>Canad. J. Math.</em> (2) <strong>78</strong> (2026), 651-693.</li>
 <li>C. Bowman, M. De Visscher, A. Hazi, and E. Norton. The anti-spherical Hecke categories for Hermitian symmetric pairs. <em>Adv. Math.</em> <strong>480</strong> (2025), 110501.</li>
 <li>A. Hazi. Matrix recursion for positive characteristic diagrammatic Soergel bimodules for affine Weyl groups. <em>Represent. Theory</em> <strong>29</strong> (2025), 443-526.</li>
